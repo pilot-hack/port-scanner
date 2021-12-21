@@ -1,7 +1,7 @@
 # Web-scanner
 With this script, you can scan your desired web.
 
-# Downloadandinstall 
+# Download and install 
 ```bash
 apt update
 
