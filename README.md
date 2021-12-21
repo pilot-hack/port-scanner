@@ -1,5 +1,5 @@
-# port-scanner
-With this script, you can scan your desired port.
+# Web-scanner
+With this script, you can scan your desired web.
 
 # Downloadandinstall 
 ```bash
